@@ -1,0 +1,15 @@
+chromadb==0.4.22
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+langchain-text-splitters
+numpy
+ollama
+onnx==1.16.1
+pdfplumber
+Pillow
+protobuf==3.20.3
+streamlit
+unstructured
+unstructured[all-docs]
