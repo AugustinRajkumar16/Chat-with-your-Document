@@ -59,6 +59,10 @@ Before running the project, make sure you have the following installed:
    ```
 
 2. The application will launch in your default web browser, or the terminal will provide a localhost URL that you can use to access the app interface.
+   
+<p style="text-align: center;">
+  <img src="assets/sample-screen.png" alt="App Screenshot" width="800" height="400">
+</p>
 
 ## Usage Instructions
 
